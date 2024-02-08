@@ -1,4 +1,8 @@
-
+'''
+Name: Jayden Ly
+Started: 2/1/24
+Last Edited: 2/8/24 11:51 AM
+'''
 def real_estate():
     
     current_price = int(input())
